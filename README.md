@@ -1,3 +1,3 @@
-# devops-maturity
+# maturity-metrics
 
-DevOps Maturity Model And Solution
+Software Practice Maturity Metrics And Solution
